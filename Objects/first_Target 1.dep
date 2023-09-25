@@ -1,0 +1,5 @@
+Dependencies for Project 'first', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\Startup.s)(0x64913732)(--cpu ARM7TDMI -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 538"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\test.c)(0x64967FF1)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="538"-o .\objects\test.o --omf_browse .\objects\test.crf --depend .\objects\test.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc213x.h)(0x559CFE30)
